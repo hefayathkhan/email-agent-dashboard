@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#1E88E5"          # Vibrant Accent Blue
+backgroundColor = "#FFFFFF"       # Crisp White Main Background
+secondaryBackgroundColor = "#F0F4F8"# Very Light Ice-Blue Sidebar Background
+textColor = "#0F172A"             # Dark Slate Text for High Contrast
+font = "sans serif"

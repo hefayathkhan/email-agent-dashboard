@@ -1,0 +1,37 @@
+[
+  {
+    "id": "EML-001",
+    "sender": "billing@supplierexample.com",
+    "subject": "Invoice #INV-2026-8890 Attached",
+    "timestamp": "2026-08-22T08:00:00Z",
+    "body": "Hi Team, Please find attached Invoice #INV-2026-8890 for $4,500.00 corresponding to our July consulting services. Due date is September 15, 2026. Payment instructions are listed at the bottom of the invoice."
+  },
+  {
+    "id": "EML-002",
+    "sender": "accounts@clientcorp.com",
+    "subject": "Status of Payment for PO #44012",
+    "timestamp": "2026-08-22T08:05:00Z",
+    "body": "Hello Accounts Payable, Could you please provide an update on payment status for Purchase Order #44012? We submitted our invoice two weeks ago and want to confirm if it has been queued for execution."
+  },
+  {
+    "id": "EML-003",
+    "sender": "legal@partnerco.com",
+    "subject": "INCORRECT CHARGE ON STATEMENT - Urgent Review Required",
+    "timestamp": "2026-08-22T08:12:00Z",
+    "body": "To Whom It May Concern, We noticed a duplicate charge of $1,250 on our August 1st statement for service agreement #SA-99. This charge was not authorized under our contract terms. Please reverse this charge immediately or provide a formal explanation."
+  },
+  {
+    "id": "EML-004",
+    "sender": "winner2026@fast-rewards-now.biz",
+    "subject": "URGENT: Your $500 Gift Card is Expiring Today!!",
+    "timestamp": "2026-08-22T08:15:00Z",
+    "body": "Congratulations Valued Customer! You have been selected to claim a $500 Amazon gift card. Click the link below within 2 hours to confirm your details before your reward expires: http://claim-now-2026.biz/auth"
+  },
+  {
+    "id": "EML-005",
+    "sender": "vendor.support@logisticsplus.com",
+    "subject": "Invoice dispute regarding unapplied credit & revised bill #INV-771",
+    "timestamp": "2026-08-22T08:20:00Z",
+    "body": "Hi AP Team, Attached is revised Invoice #INV-771 for $2,100. However, our credit memo #CM-04 was never applied to the previous balance, so this current total looks incorrect. Can you hold payment on this attached invoice until someone checks why the $500 credit was missed?"
+  }
+]
